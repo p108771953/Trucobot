@@ -1,0 +1,2 @@
+# Trucobot
+Bot de truco
